@@ -1,0 +1,11 @@
+einops==0.8.1
+gradio==5.33.2
+joblib==1.1.1
+librosa==0.11.0
+mamba_ssm==2.2.2
+matplotlib==3.7.5
+numpy==1.24.4
+pesq==0.0.4
+rich==14.0.0
+soundfile==0.12.1
+torch==2.4.1+cu121
